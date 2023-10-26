@@ -1,6 +1,6 @@
 # API Testing | Postman -  Interview Questions
 
-# API TESTING
+## API TESTING
 
 ### What is an API?
 
